@@ -1,0 +1,4 @@
+This contains an example of terraform creating a resource group and virtual machine in Azure.
+
+Terraform CLI must be downloaded locally.
+Can then run Teraform init, terraform, plan, terraform apply and terraform destroy commands.
